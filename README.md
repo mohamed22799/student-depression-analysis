@@ -17,3 +17,4 @@ Random Forest achieved the highest accuracy (85%).
 
 ## Dataset
 Available on Kaggle: [https://www.kaggle.com/code/muhammad3laa/exploring-student-depression-dataset]
+                     [https://www.kaggle.com/code/muhammad3laa/student-depression-prediction-using-ml]
